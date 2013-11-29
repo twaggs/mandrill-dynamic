@@ -1,0 +1,8 @@
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\bin\Debug\Mandrill.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\bin\Debug\Mandrill.pdb
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\bin\Debug\RestSharp.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\bin\Debug\RestSharp.xml
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\obj\Debug\Mandrill.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\obj\Debug\Mandrill.pdb
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill\bin\Debug\Newtonsoft.Json.xml

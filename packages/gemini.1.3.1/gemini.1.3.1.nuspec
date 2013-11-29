@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>gemini</id>
+    <version>1.3.1</version>
+    <title>gemini</title>
+    <authors>Amir Rajan</authors>
+    <owners>Amir Rajan</owners>
+    <licenseUrl>https://github.com/amirrajan/Oak/blob/master/license.txt</licenseUrl>
+    <projectUrl>http://amirrajan.github.com/Oak/</projectUrl>
+    <iconUrl>http://amirrajan.github.io/Oak/oak-nuget.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Gemini is a core dynamic construct that will make your C# code awesome. It's an integral part of Oak.</description>
+    <releaseNotes />
+    <copyright />
+    <language>en-US</language>
+    <tags>dynamic oak dlr</tags>
+  </metadata>
+</package>

@@ -1,0 +1,13 @@
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Mandrill.Specs.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Mandrill.Specs.pdb
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Mandrill.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\NSpec.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\RestSharp.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Mandrill.pdb
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\RestSharp.xml
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\obj\Debug\Mandrill.Specs.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\obj\Debug\Mandrill.Specs.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\obj\Debug\Mandrill.Specs.pdb
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tom\Documents\GitHub\Mandrill\Mandrill.Specs\bin\Debug\Mandrill.Specs.dll.config
