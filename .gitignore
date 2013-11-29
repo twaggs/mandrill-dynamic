@@ -1,0 +1,20 @@
+obj/
+bin/
+Obj/
+Bin/
+*.user
+*.suo
+*.[Cc]ache
+*.bak
+*.ncb
+*.log 
+*.svn
+*.DS_Store
+*.orig
+stacktrace.txt
+sidekickapp.exe
+[Tt]est[Rr]esult.xml
+[Tt]humbs.db 
+Ankh.NoLoad
+# Include dlls if they’re in the NuGet packages directory
+!/packages/*/lib/*.dll

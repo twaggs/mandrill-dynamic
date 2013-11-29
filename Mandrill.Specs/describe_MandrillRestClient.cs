@@ -19,7 +19,7 @@ namespace Mandrill.Specs
         string apiKey = ConfigurationManager.AppSettings.Get("MandrillApiKey");
         string templateName = ConfigurationManager.AppSettings.Get("ValidEmailTemplate");
         string fromAddress = ConfigurationManager.AppSettings.Get("ValidFromAddress");
-        string existingEmailid = ConfigurationManager.AppSettings.Get("402c1f41c10a4997a8d92d34329641eb");
+        string existingEmailId = ConfigurationManager.AppSettings.Get("ExistingEmailId");
 
         void before_each()
         {
@@ -67,7 +67,7 @@ namespace Mandrill.Specs
             {
                 before = () =>
                 {
-                    emailId = existingEmailid;
+                    emailId = existingEmailId;
                 };
 
                 it["returns email info"] = () => ((string)result._id).should_be(emailId);
